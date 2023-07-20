@@ -1,0 +1,15 @@
+E:\.net\firstcode\firstcode\bin\Debug\net6.0\firstcode.exe
+E:\.net\firstcode\firstcode\bin\Debug\net6.0\firstcode.deps.json
+E:\.net\firstcode\firstcode\bin\Debug\net6.0\firstcode.runtimeconfig.json
+E:\.net\firstcode\firstcode\bin\Debug\net6.0\firstcode.dll
+E:\.net\firstcode\firstcode\bin\Debug\net6.0\firstcode.pdb
+E:\.net\firstcode\firstcode\obj\Debug\net6.0\firstcode.csproj.AssemblyReference.cache
+E:\.net\firstcode\firstcode\obj\Debug\net6.0\firstcode.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\firstcode\firstcode\obj\Debug\net6.0\firstcode.AssemblyInfoInputs.cache
+E:\.net\firstcode\firstcode\obj\Debug\net6.0\firstcode.AssemblyInfo.cs
+E:\.net\firstcode\firstcode\obj\Debug\net6.0\firstcode.csproj.CoreCompileInputs.cache
+E:\.net\firstcode\firstcode\obj\Debug\net6.0\firstcode.dll
+E:\.net\firstcode\firstcode\obj\Debug\net6.0\refint\firstcode.dll
+E:\.net\firstcode\firstcode\obj\Debug\net6.0\firstcode.pdb
+E:\.net\firstcode\firstcode\obj\Debug\net6.0\firstcode.genruntimeconfig.cache
+E:\.net\firstcode\firstcode\obj\Debug\net6.0\ref\firstcode.dll
