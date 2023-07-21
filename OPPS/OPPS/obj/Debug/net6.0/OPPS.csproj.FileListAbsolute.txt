@@ -1,0 +1,15 @@
+E:\.net\OPPS\OPPS\bin\Debug\net6.0\OPPS.exe
+E:\.net\OPPS\OPPS\bin\Debug\net6.0\OPPS.deps.json
+E:\.net\OPPS\OPPS\bin\Debug\net6.0\OPPS.runtimeconfig.json
+E:\.net\OPPS\OPPS\bin\Debug\net6.0\OPPS.dll
+E:\.net\OPPS\OPPS\bin\Debug\net6.0\OPPS.pdb
+E:\.net\OPPS\OPPS\obj\Debug\net6.0\OPPS.csproj.AssemblyReference.cache
+E:\.net\OPPS\OPPS\obj\Debug\net6.0\OPPS.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\OPPS\OPPS\obj\Debug\net6.0\OPPS.AssemblyInfoInputs.cache
+E:\.net\OPPS\OPPS\obj\Debug\net6.0\OPPS.AssemblyInfo.cs
+E:\.net\OPPS\OPPS\obj\Debug\net6.0\OPPS.csproj.CoreCompileInputs.cache
+E:\.net\OPPS\OPPS\obj\Debug\net6.0\OPPS.dll
+E:\.net\OPPS\OPPS\obj\Debug\net6.0\refint\OPPS.dll
+E:\.net\OPPS\OPPS\obj\Debug\net6.0\OPPS.pdb
+E:\.net\OPPS\OPPS\obj\Debug\net6.0\OPPS.genruntimeconfig.cache
+E:\.net\OPPS\OPPS\obj\Debug\net6.0\ref\OPPS.dll
